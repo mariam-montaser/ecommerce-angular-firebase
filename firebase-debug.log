@@ -1,0 +1,13 @@
+[debug] [2020-07-20T12:15:34.475Z] ----------------------------------------------------------------------
+[debug] [2020-07-20T12:15:34.477Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\hp\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js use --add
+[debug] [2020-07-20T12:15:34.478Z] CLI Version:   8.5.0
+[debug] [2020-07-20T12:15:34.478Z] Platform:      win32
+[debug] [2020-07-20T12:15:34.478Z] Node Version:  v12.13.1
+[debug] [2020-07-20T12:15:34.479Z] Time:          Mon Jul 20 2020 14:15:34 GMT+0200 (Eastern European Standard Time)
+[debug] [2020-07-20T12:15:34.480Z] ----------------------------------------------------------------------
+[debug] [2020-07-20T12:15:34.480Z] 
+[debug] [2020-07-20T12:15:34.491Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-07-20T12:15:34.493Z] > authorizing via signed-in user
+[debug] [2020-07-20T12:15:34.499Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects?pageSize=1000  
+ 
+[debug] [2020-07-20T12:15:35.197Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Mon, 20 Jul 2020 12:16:44 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-29=\":443\"; ma=2592000,h3-27=\":443\"; ma=2592000,h3-25=\":443\"; ma=2592000,h3-T050=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
